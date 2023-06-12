@@ -1,0 +1,6 @@
+L:\Source\CalculateFigure\Calculate_Triangle_Circle\bin\Debug\Calculate_Triangle_Circle.dll
+L:\Source\CalculateFigure\Calculate_Triangle_Circle\bin\Debug\Calculate_Triangle_Circle.pdb
+L:\Source\CalculateFigure\Calculate_Triangle_Circle\obj\Debug\Calculate_Triangle_Circle.csproj.AssemblyReference.cache
+L:\Source\CalculateFigure\Calculate_Triangle_Circle\obj\Debug\Calculate_Triangle_Circle.csproj.CoreCompileInputs.cache
+L:\Source\CalculateFigure\Calculate_Triangle_Circle\obj\Debug\Calculate_Triangle_Circle.dll
+L:\Source\CalculateFigure\Calculate_Triangle_Circle\obj\Debug\Calculate_Triangle_Circle.pdb

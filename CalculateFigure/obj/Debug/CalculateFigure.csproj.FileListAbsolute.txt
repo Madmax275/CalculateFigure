@@ -1,0 +1,11 @@
+L:\Source\CalculateFigure\CalculateFigure\obj\Debug\CalculateFigure.csproj.AssemblyReference.cache
+L:\Source\CalculateFigure\CalculateFigure\obj\Debug\CalculateFigure.csproj.SuggestedBindingRedirects.cache
+L:\Source\CalculateFigure\CalculateFigure\obj\Debug\CalculateFigure.csproj.CoreCompileInputs.cache
+L:\Source\CalculateFigure\CalculateFigure\bin\Debug\CalculateFigure.exe.config
+L:\Source\CalculateFigure\CalculateFigure\bin\Debug\CalculateFigure.exe
+L:\Source\CalculateFigure\CalculateFigure\bin\Debug\CalculateFigure.pdb
+L:\Source\CalculateFigure\CalculateFigure\bin\Debug\Calculate_Triangle_Circle.dll
+L:\Source\CalculateFigure\CalculateFigure\bin\Debug\Calculate_Triangle_Circle.pdb
+L:\Source\CalculateFigure\CalculateFigure\obj\Debug\CalculateFigure.csproj.CopyComplete
+L:\Source\CalculateFigure\CalculateFigure\obj\Debug\CalculateFigure.exe
+L:\Source\CalculateFigure\CalculateFigure\obj\Debug\CalculateFigure.pdb
